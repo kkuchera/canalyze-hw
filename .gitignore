@@ -1,4 +1,6 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
+gerbers/
+*.zip
 
 # Temporary files
 *.000
